@@ -6,4 +6,4 @@ Git команды:
 Настройка пользователя git config --global user.name "Romanenko"
 Настройка эмейл git config --global user.email "test@gmail.com"
 
-3.
+3. Настройка
