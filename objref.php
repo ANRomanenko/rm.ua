@@ -12,9 +12,12 @@
     // Выводим оба значения
     echo "First mind: {$first -> mind}, second: {$second -> mind}";
 
+
     // Предположим, определена константа PI, равная 3.14116...
     $a = 2.34 * sin(3 * PI / 8 ) + 5;
     echo "Это число PI";
     echo "<br/>";
     echo "Это число " .PI ;
+    echo "<hr/>";
+    echo false;
 ?>
